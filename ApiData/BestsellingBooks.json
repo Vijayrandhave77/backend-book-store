@@ -1,0 +1,52 @@
+[
+    {
+      "img":"https://i.imghippo.com/files/td3FX1727364604.jpg",
+      "brand":"KINDLE",
+      "title":"Angery God (All Saints High Book 3)",
+      "writer":"L.J. Shen",
+      "price":{
+        "original":"$1.30",
+        "discount":"$1.75"
+      }
+    },
+    {
+      "img":"https://i.imghippo.com/files/11cAq1727365240.jpg",
+      "brand":"HARDCOVER",
+      "title":"Dark in Death: An Eve Dallas Navel",
+      "writer":"J.D. Robb",
+      "price":{
+        "original":"$14.20",
+        "discount":"$1.75"
+      }
+    },
+    {
+      "img":"https://i.imghippo.com/files/73kSP1727365278.jpg",
+      "brand":"HARDCOVER KINDLE PAPE",
+      "title":"The Last Sister",
+      "writer":"Conn lgguiden",
+      "price":{
+        "original":"$29.59",
+        "discount":"$1.75"
+      }
+    },
+    {
+      "img":"https://i.imghippo.com/files/rRlQZ1727365299.jpg",
+      "brand":"HARDCOVER",
+      "title":" The Last Sister",
+      "writer":"Jessica Simpson, Max",
+      "price":{
+        "original":"$16.59",
+        "discount":"$1.75"
+      }
+    },
+    {
+      "img":"https://i.imghippo.com/files/9lHkk1727365349.jpg",
+      "brand":"KINDLE",
+      "title":"Think Like a Monk: Train Your Mind",
+      "writer":"L.J. Shen",
+      "price":{
+        "original":"$1.75",
+        "discount":"$1.75"
+      }
+    }
+]
