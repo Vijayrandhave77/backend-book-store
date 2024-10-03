@@ -37,6 +37,7 @@ signinSchama.methods.comparePassword = async function(candidatePassword){
         return isMatch;
     }catch(err){  
         throw err;
+        //hello for this time
     }
 }
 
